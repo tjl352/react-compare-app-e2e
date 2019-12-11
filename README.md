@@ -1,0 +1,1 @@
+# react-compare-app-e2e
