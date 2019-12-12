@@ -1,0 +1,32 @@
+{
+  "name": "react-compare-app-e2e",
+  "version": "1.0.0",
+  "description": "setup git clone https://github.com/tjl352/react-compare-app-e2e.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjl352/react-compare-app-e2e.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjl352/react-compare-app-e2e/issues"
+  },
+  "homepage": "https://github.com/tjl352/react-compare-app-e2e#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/register": "^7.7.4",
+    "@wdio/cli": "^5.16.15",
+    "@wdio/local-runner": "^5.16.15",
+    "@wdio/mocha-framework": "^5.16.15",
+    "@wdio/spec-reporter": "^5.16.11",
+    "@wdio/sync": "^5.16.15",
+    "chromedriver": "^79.0.0",
+    "wdio-chromedriver-service": "^5.0.2"
+  }
+}
